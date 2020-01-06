@@ -1,7 +1,7 @@
 # Supervised Hebbian Learning Algorithm
 
 This repository contains the code that was used in the paper I wrote on the Supervised Hebbian Algorithm.
-It contains the following: The main entry file, The base network class, the MNIST loader class, activation functions, MNIST data set.
+It contains the following: The main entry file, The base network class, the MNIST loader class, activation functions, MNIST data set, and the paper PDF file.
 
 ## Getting Started
 
